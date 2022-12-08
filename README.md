@@ -1,13 +1,15 @@
 # burlapandbarrel
 QSpiceSix's Jupyter Notebooks
 
-Notebook-1 is our first notebook we used to perform a lot of cleaning and transformations. We also made most of our plots here and explored some modeling.
+[Notebook-1](https://github.com/avedmala/burlapandbarrel/blob/main/Notebook-1.ipynb) is our first notebook we used to perform a lot of cleaning and transformations. We also made most of our plots here and explored some modeling.
 
-Notebook-2 is more focused on models. We also refocused on the original scope in Notebook-2 and drew some important conclusions which were used for our final recommendations.
+[Notebook-2](https://github.com/avedmala/burlapandbarrel/blob/main/Notebook-2.ipynb) is more focused on models. We also refocused on the original scope in Notebook-2 and drew some important conclusions which were used for our final recommendations.
 
 Here is a link to a Google Drive folder with the notebooks and data: https://drive.google.com/drive/folders/1XYEJJTeLP9WyAr5yOGwdsqPexGND1V4X?usp=share_link
 
 The maps render in collab so it's worth looking at that if you want to interact with them but you don't want to re-run the whole thing.
+
+---
 
 The following files are required to run the notebooks. Make sure they're in the same directory as the notebooks when running.
 
